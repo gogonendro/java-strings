@@ -2,12 +2,12 @@
 Java programs based on Strings
 
 ## What this repository contains
-This repo contains total 15 string-based programs, namely:
-1. **Reverse**: to reverse a string
-2. **Palindrome**: check for palindrome string
+This repo contains total 15 string-based programs:
+1. **Reverse**: reverses a string
+2. **Palindrome**: checks whether a string is palindrome
 3. **VowCons**: counts the number of vowels and consonants in a string
 4. **WordCount**: counts the number of words in a sentence
-5. **CharFreq**: to find the frequency of characters in a string
+5. **CharFreq**: finds the frequency of each character in a string
 6. **BlankRemove**: removes blank spaces from a string
 7. **ToggleCase**: swaps cases in a string (uppercase -> lowercase; lowercase -> uppercase)
 8. **Anagram**: checks if a string is an *anagram* (a word or phrase made by rearranging all the original letters of a different word or phrase exactly once)
